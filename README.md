@@ -1,2 +1,6 @@
 # publishing-book-calculator
-This is the first version of 2nimble Service Cost Calculator
+This is a publishing services cost calculator written in Javascript, HTML, CSS and PHP for 2nimble
+
+Link: https://2nimble.com/bundler/
+
+
